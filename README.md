@@ -9,4 +9,4 @@
 
 ## Colab Notebook
 
-You can run and explore the notebook on Google Colab: [Open in Colab](https://colab.research.google.com/drive/1HUAxrRXZqkTQFl36FvFcE5uXu9VCsqOW?usp=sharing).
+You can run and explore the notebook for Spelling mistake correction from image on Google Colab: [Open in Colab](https://colab.research.google.com/drive/1HUAxrRXZqkTQFl36FvFcE5uXu9VCsqOW?usp=sharing).
