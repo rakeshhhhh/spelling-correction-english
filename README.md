@@ -4,8 +4,7 @@
 - Llama model, groq platform
 - User Input Text
 
-
--AWS Amazon TEXTRACT (Also added extracting a text from image)
+- AWS Amazon TEXTRACT (Also added extracting a text from image)
 
 
 ## Colab Notebook
